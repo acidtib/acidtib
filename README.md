@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [**coinatmfees.com**](https://coinatmfees.com) 
+- 🔭 I’m currently working on [**thebayou.company**](https://thebayou.company), [**coinatmfees.com**](https://coinatmfees.com) 
 - 🌱 I’m currently learning **Unreal Engine**
 - 👯 I’m looking to collaborate on **Projects that help personal decentralization**
 - 💬 Ask me about **Bitcoin**
