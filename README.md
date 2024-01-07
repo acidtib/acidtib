@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [**bloodlineranks.com**](https://bloodlineranks.com)
+- 🔭 I’m currently working on [**finalsranks.com**](https://finalsranks.com) & [**bloodlineranks.com**](https://bloodlineranks.com)
 - 🌱 I’m currently learning **Unreal Engine**
 - 👯 I’m looking to collaborate on **Projects that help personal decentralization**
 - 💬 Ask me about **Bitcoin**
