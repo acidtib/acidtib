@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [**sesh.casa**](https://sesh.casa)
-- 🌱 I’m currently learning **Unreal Engine**
+- 🔭 I’m currently looking for work.
+- 🌱 I’m currently learning **Rust**
 - 👯 I’m looking to collaborate on **Projects that help personal decentralization**
 - 💬 Ask me about **Bitcoin**
 - 📫 How to reach me: **My email, it's available on my profile**
